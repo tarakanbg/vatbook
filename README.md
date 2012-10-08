@@ -1,6 +1,6 @@
 # Vatbook
 
-Ruby API to the Vatbook service for reading Vatsim pilot and ATC bookings,
+Ruby API to the Vatbook service for reading Vatsim pilot and ATC bookings
 
 ## Installation
 

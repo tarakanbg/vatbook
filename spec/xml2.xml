@@ -1,0 +1,2091 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bookings>
+  <timestamp>2012-10-08 14:48:48</timestamp>
+  <atcs>
+    <booking>
+      <id>59833613</id>
+      <callsign>LFMN_TWR</callsign>
+      <name>Tomba Quentin</name>
+      <time_start>2012-10-08 08:00:00</time_start>
+      <time_end>2012-10-08 10:00:00</time_end>
+      <cid>1227003</cid>
+      <src_ip>46.105.126.114</src_ip>
+      <added>2012-10-08 10:31:09</added>
+    </booking>
+    <booking>
+      <id>317431727</id>
+      <callsign>EGSS_GND</callsign>
+      <name>Daniel Cormack</name>
+      <time_start>2012-10-08 12:00:00</time_start>
+      <time_end>2012-10-08 13:00:00</time_end>
+      <cid>1156497</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-08 13:31:59</added>
+    </booking>
+    <booking>
+      <id>657869239</id>
+      <callsign>P1_VATSIM</callsign>
+      <name>Enrico Brozzu</name>
+      <time_start>2012-10-08 12:30:00</time_start>
+      <time_end>2012-10-08 14:00:00</time_end>
+      <cid>1234437</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-08 14:32:47</added>
+    </booking>
+    <booking>
+      <id>596529091</id>
+      <callsign>EURM_CTR</callsign>
+      <name>David Lee</name>
+      <time_start>2012-10-08 13:00:00</time_start>
+      <time_end>2012-10-08 14:00:00</time_end>
+      <cid>1161277</cid>
+      <src_ip>124.13.188.229</src_ip>
+      <added>2012-10-08 14:32:47</added>
+    </booking>
+    <booking>
+      <id>77251229</id>
+      <callsign>LLLL_CTR</callsign>
+      <name>izik bakshi</name>
+      <time_start>2012-10-08 13:30:00</time_start>
+      <time_end>2012-10-08 15:30:00</time_end>
+      <cid>815057</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-08 13:09:17</added>
+    </booking>
+    <booking>
+      <id>573984506</id>
+      <callsign>EGSS_GND</callsign>
+      <name>Daniel Cormack</name>
+      <time_start>2012-10-08 15:45:00</time_start>
+      <time_end>2012-10-08 18:30:00</time_end>
+      <cid>1156497</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-08 12:36:54</added>
+    </booking>
+    <booking>
+      <id>93916010</id>
+      <callsign>EGKK_TWR</callsign>
+      <name>Benjamin Vaughan</name>
+      <time_start>2012-10-08 16:00:00</time_start>
+      <time_end>2012-10-08 17:30:00</time_end>
+      <cid>1212619</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-03 17:32:52</added>
+    </booking>
+    <booking>
+      <id>381947607</id>
+      <callsign>LLBG_W_GND</callsign>
+      <name>Omri Landman</name>
+      <time_start>2012-10-08 16:30:00</time_start>
+      <time_end>2012-10-08 19:30:00</time_end>
+      <cid>1226210</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-08 14:12:18</added>
+    </booking>
+    <booking>
+      <id>50430103</id>
+      <callsign>EGPH_TWR</callsign>
+      <name>Jan Duk</name>
+      <time_start>2012-10-08 17:00:00</time_start>
+      <time_end>2012-10-08 18:30:00</time_end>
+      <cid>1203672</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-07 21:06:50</added>
+    </booking>
+    <booking>
+      <id>478036411</id>
+      <callsign>EPWA_TWR</callsign>
+      <name>Piotr Grudniewski</name>
+      <time_start>2012-10-08 17:00:00</time_start>
+      <time_end>2012-10-08 19:30:00</time_end>
+      <cid>1005001</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-04 19:36:23</added>
+    </booking>
+    <booking>
+      <id>724924748</id>
+      <callsign>EDDF_N_APP</callsign>
+      <name>Lukas Ewald</name>
+      <time_start>2012-10-08 17:00:00</time_start>
+      <time_end>2012-10-08 20:00:00</time_end>
+      <cid>984980</cid>
+      <src_ip>95.89.128.22</src_ip>
+      <added>2012-10-08 13:37:48</added>
+    </booking>
+    <booking>
+      <id>437803615</id>
+      <callsign>EDDN_APP</callsign>
+      <name>Dietmar Brinschwitz</name>
+      <time_start>2012-10-08 17:00:00</time_start>
+      <time_end>2012-10-08 20:00:00</time_end>
+      <cid>940593</cid>
+      <src_ip>217.229.152.137</src_ip>
+      <added>2012-10-07 10:34:21</added>
+    </booking>
+    <booking>
+      <id>57087818</id>
+      <callsign>EDBB_N_APP</callsign>
+      <name>Matthias Kumor</name>
+      <time_start>2012-10-08 17:00:00</time_start>
+      <time_end>2012-10-08 21:00:00</time_end>
+      <cid>1126285</cid>
+      <src_ip>46.128.138.123</src_ip>
+      <added>2012-10-07 11:19:53</added>
+    </booking>
+    <booking>
+      <id>176929703</id>
+      <callsign>EDDN_TWR</callsign>
+      <name>Alexander Frei</name>
+      <time_start>2012-10-08 17:00:00</time_start>
+      <time_end>2012-10-08 21:00:00</time_end>
+      <cid>1155640</cid>
+      <src_ip>77.190.24.83</src_ip>
+      <added>2012-09-26 13:50:25</added>
+    </booking>
+    <booking>
+      <id>663703413</id>
+      <callsign>EGKK_TWR</callsign>
+      <name>Daniel Plumb</name>
+      <time_start>2012-10-08 17:30:00</time_start>
+      <time_end>2012-10-08 19:00:00</time_end>
+      <cid>1203457</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-09-30 22:29:43</added>
+    </booking>
+    <booking>
+      <id>802518220</id>
+      <callsign>EGKK_GND</callsign>
+      <name>Sam Martinez</name>
+      <time_start>2012-10-08 17:30:00</time_start>
+      <time_end>2012-10-08 19:00:00</time_end>
+      <cid>1061917</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-08 13:09:26</added>
+    </booking>
+    <booking>
+      <id>571096454</id>
+      <callsign>LLSD_TWR</callsign>
+      <name>Amir Friedland</name>
+      <time_start>2012-10-08 17:30:00</time_start>
+      <time_end>2012-10-08 20:00:00</time_end>
+      <cid>1180261</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-08 14:11:37</added>
+    </booking>
+    <booking>
+      <id>535298223</id>
+      <callsign>EDDL_TWR</callsign>
+      <name>Sebastian Wittke</name>
+      <time_start>2012-10-08 17:30:00</time_start>
+      <time_end>2012-10-08 20:30:00</time_end>
+      <cid>1204742</cid>
+      <src_ip>178.201.216.74</src_ip>
+      <added>2012-09-08 20:50:48</added>
+    </booking>
+    <booking>
+      <id>768678968</id>
+      <callsign>EDBB_F_APP</callsign>
+      <name>Alexandr Zinakov</name>
+      <time_start>2012-10-08 18:00:00</time_start>
+      <time_end>2012-10-08 20:00:00</time_end>
+      <cid>1186669</cid>
+      <src_ip>194.247.173.154</src_ip>
+      <added>2012-10-07 16:49:01</added>
+    </booking>
+    <booking>
+      <id>126882925</id>
+      <callsign>EDDH_TWR</callsign>
+      <name>Sven Kratochvil</name>
+      <time_start>2012-10-08 18:00:00</time_start>
+      <time_end>2012-10-08 20:00:00</time_end>
+      <cid>1097540</cid>
+      <src_ip>87.149.43.125</src_ip>
+      <added>2012-10-05 08:28:32</added>
+    </booking>
+    <booking>
+      <id>842580016</id>
+      <callsign>EDDL_GND</callsign>
+      <name>Stefan Greger</name>
+      <time_start>2012-10-08 18:00:00</time_start>
+      <time_end>2012-10-08 20:00:00</time_end>
+      <cid>1205749</cid>
+      <src_ip>87.139.195.66</src_ip>
+      <added>2012-10-04 07:41:40</added>
+    </booking>
+    <booking>
+      <id>188371237</id>
+      <callsign>EDDL_APP</callsign>
+      <name>Philipp Schienbein</name>
+      <time_start>2012-10-08 18:00:00</time_start>
+      <time_end>2012-10-08 20:00:00</time_end>
+      <cid>1152369</cid>
+      <src_ip>79.250.36.124</src_ip>
+      <added>2012-10-06 08:15:26</added>
+    </booking>
+    <booking>
+      <id>575373036</id>
+      <callsign>EDDT_TWR</callsign>
+      <name>Henry Konetzky</name>
+      <time_start>2012-10-08 18:00:00</time_start>
+      <time_end>2012-10-08 20:00:00</time_end>
+      <cid>1232052</cid>
+      <src_ip>91.66.216.131</src_ip>
+      <added>2012-09-28 12:03:27</added>
+    </booking>
+    <booking>
+      <id>446139540</id>
+      <callsign>EDDW_TWR</callsign>
+      <name>Andr</name>
+      <time_start>2012-10-08 18:00:00</time_start>
+      <time_end>2012-10-08 20:00:00</time_end>
+      <cid>1151126</cid>
+      <src_ip>87.178.215.209</src_ip>
+      <added>2012-10-05 10:01:32</added>
+    </booking>
+    <booking>
+      <id>384875804</id>
+      <callsign>EDWW_B_CTR</callsign>
+      <name>Serge Pasternak</name>
+      <time_start>2012-10-08 18:00:00</time_start>
+      <time_end>2012-10-08 20:00:00</time_end>
+      <cid>1059201</cid>
+      <src_ip>178.212.247.92</src_ip>
+      <added>2012-10-07 16:49:23</added>
+    </booking>
+    <booking>
+      <id>762642296</id>
+      <callsign>EGGD_TWR</callsign>
+      <name>Ryan Davies</name>
+      <time_start>2012-10-08 18:00:00</time_start>
+      <time_end>2012-10-08 20:00:00</time_end>
+      <cid>1221997</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-04 14:42:42</added>
+    </booking>
+    <booking>
+      <id>622918424</id>
+      <callsign>EGGD_APP</callsign>
+      <name>Andy Ford</name>
+      <time_start>2012-10-08 18:00:00</time_start>
+      <time_end>2012-10-08 20:00:00</time_end>
+      <cid>1203533</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-04 17:01:18</added>
+    </booking>
+    <booking>
+      <id>748636903</id>
+      <callsign>EHAA_W_CTR</callsign>
+      <name>Wouter Hopman</name>
+      <time_start>2012-10-08 18:00:00</time_start>
+      <time_end>2012-10-08 20:00:00</time_end>
+      <cid>0</cid>
+      <src_ip>84.106.224.121</src_ip>
+      <added>2012-10-07 05:17:28</added>
+    </booking>
+    <booking>
+      <id>796201595</id>
+      <callsign>EHAM_W_APP</callsign>
+      <name>Peter Schrijver</name>
+      <time_start>2012-10-08 18:00:00</time_start>
+      <time_end>2012-10-08 20:00:00</time_end>
+      <cid>0</cid>
+      <src_ip>77.61.234.170</src_ip>
+      <added>2012-10-03 09:28:09</added>
+    </booking>
+    <booking>
+      <id>219765847</id>
+      <callsign>EHAM_DEL</callsign>
+      <name>Bert Galjaard</name>
+      <time_start>2012-10-08 18:00:00</time_start>
+      <time_end>2012-10-08 20:00:00</time_end>
+      <cid>0</cid>
+      <src_ip>77.170.161.49</src_ip>
+      <added>2012-10-08 07:06:46</added>
+    </booking>
+    <booking>
+      <id>896839756</id>
+      <callsign>EPWA_S_APP</callsign>
+      <name>Rafał Bardel</name>
+      <time_start>2012-10-08 18:00:00</time_start>
+      <time_end>2012-10-08 20:00:00</time_end>
+      <cid>863937</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-04 07:19:26</added>
+    </booking>
+    <booking>
+      <id>334751380</id>
+      <callsign>EDDT_GND</callsign>
+      <name>Joerg Bradel</name>
+      <time_start>2012-10-08 18:00:00</time_start>
+      <time_end>2012-10-08 20:30:00</time_end>
+      <cid>1051715</cid>
+      <src_ip>93.228.19.155</src_ip>
+      <added>2012-10-01 16:04:38</added>
+    </booking>
+    <booking>
+      <id>28836987</id>
+      <callsign>EDDH_E_APP</callsign>
+      <name>Peter Philipp</name>
+      <time_start>2012-10-08 18:00:00</time_start>
+      <time_end>2012-10-08 21:00:00</time_end>
+      <cid>811386</cid>
+      <src_ip>91.62.79.9</src_ip>
+      <added>2012-10-07 17:22:00</added>
+    </booking>
+    <booking>
+      <id>626453204</id>
+      <callsign>EDWW_A_CTR</callsign>
+      <name>Claus Schuelke</name>
+      <time_start>2012-10-08 18:00:00</time_start>
+      <time_end>2012-10-08 21:00:00</time_end>
+      <cid>813458</cid>
+      <src_ip>80.171.69.119</src_ip>
+      <added>2012-10-03 20:35:59</added>
+    </booking>
+    <booking>
+      <id>960425417</id>
+      <callsign>EDDH_GND</callsign>
+      <name>Lothar Gentzsch</name>
+      <time_start>2012-10-08 18:00:00</time_start>
+      <time_end>2012-10-08 22:00:00</time_end>
+      <cid>982474</cid>
+      <src_ip>79.225.244.139</src_ip>
+      <added>2012-10-05 11:39:13</added>
+    </booking>
+    <booking>
+      <id>13249637</id>
+      <callsign>P1_VATSIM</callsign>
+      <name>David Lovell</name>
+      <time_start>2012-10-08 18:30:00</time_start>
+      <time_end>2012-10-08 19:30:00</time_end>
+      <cid>1234997</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-06 17:22:36</added>
+    </booking>
+    <booking>
+      <id>624780130</id>
+      <callsign>EGCC_APP</callsign>
+      <name>James Brierley</name>
+      <time_start>2012-10-08 18:30:00</time_start>
+      <time_end>2012-10-08 20:00:00</time_end>
+      <cid>1138460</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-07 12:48:14</added>
+    </booking>
+    <booking>
+      <id>895489795</id>
+      <callsign>EHAM_N_GND</callsign>
+      <name>Frank Grivel</name>
+      <time_start>2012-10-08 18:30:00</time_start>
+      <time_end>2012-10-08 20:00:00</time_end>
+      <cid>0</cid>
+      <src_ip>81.71.110.38</src_ip>
+      <added>2012-10-08 12:56:18</added>
+    </booking>
+    <booking>
+      <id>247756230</id>
+      <callsign>EGGP_GND</callsign>
+      <name>Leslie Thelwell</name>
+      <time_start>2012-10-08 18:30:00</time_start>
+      <time_end>2012-10-08 20:30:00</time_end>
+      <cid>1082605</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-08 05:29:05</added>
+    </booking>
+    <booking>
+      <id>496583990</id>
+      <callsign>LSGG_APP</callsign>
+      <name>Cathy Mariani</name>
+      <time_start>2012-10-08 18:30:00</time_start>
+      <time_end>2012-10-08 20:30:00</time_end>
+      <cid>0</cid>
+      <src_ip>188.40.69.86</src_ip>
+      <added>2012-10-07 08:52:41</added>
+    </booking>
+    <booking>
+      <id>396008353</id>
+      <callsign>LSGG_A_GND</callsign>
+      <name>Pascal Doppmann</name>
+      <time_start>2012-10-08 18:30:00</time_start>
+      <time_end>2012-10-08 20:30:00</time_end>
+      <cid>0</cid>
+      <src_ip>188.40.69.86</src_ip>
+      <added>2012-10-07 20:28:53</added>
+    </booking>
+    <booking>
+      <id>734300925</id>
+      <callsign>LFMN_APP</callsign>
+      <name>Florian Rimoli</name>
+      <time_start>2012-10-08 19:00:00</time_start>
+      <time_end>2012-10-08 21:00:00</time_end>
+      <cid>1225664</cid>
+      <src_ip>46.105.126.114</src_ip>
+      <added>2012-10-06 16:27:19</added>
+    </booking>
+    <booking>
+      <id>316387811</id>
+      <callsign>EGKK_GND</callsign>
+      <name>Tomer Oszlak</name>
+      <time_start>2012-10-08 19:00:00</time_start>
+      <time_end>2012-10-08 21:30:00</time_end>
+      <cid>1125377</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-03 21:45:03</added>
+    </booking>
+    <booking>
+      <id>537227358</id>
+      <callsign>EGKK_APP</callsign>
+      <name>Celestyn Chmielewski</name>
+      <time_start>2012-10-08 19:30:00</time_start>
+      <time_end>2012-10-08 21:00:00</time_end>
+      <cid>952101</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-07 17:45:36</added>
+    </booking>
+    <booking>
+      <id>215569620</id>
+      <callsign>ESSA_APP</callsign>
+      <name>Max August Larsson Kuhla</name>
+      <time_start>2012-10-09 17:00:00</time_start>
+      <time_end>2012-10-09 20:00:00</time_end>
+      <cid>1157125</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-07 11:25:14</added>
+    </booking>
+    <booking>
+      <id>843110821</id>
+      <callsign>EGLL_S_TWR</callsign>
+      <name>Michal Fira</name>
+      <time_start>2012-10-09 17:15:00</time_start>
+      <time_end>2012-10-09 18:30:00</time_end>
+      <cid>1117392</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-07 15:43:55</added>
+    </booking>
+    <booking>
+      <id>662416482</id>
+      <callsign>ENVA_APP</callsign>
+      <name>Anders Merch Grønmyr</name>
+      <time_start>2012-10-09 17:30:00</time_start>
+      <time_end>2012-10-09 19:00:00</time_end>
+      <cid>1067921</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-06 19:32:52</added>
+    </booking>
+    <booking>
+      <id>672612361</id>
+      <callsign>LQSA_APP</callsign>
+      <name>Svilen Vassilev</name>
+      <time_start>2012-10-09 17:30:00</time_start>
+      <time_end>2012-10-09 21:30:00</time_end>
+      <cid>1175035</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-07 20:03:21</added>
+    </booking>
+    <booking>
+      <id>27881708</id>
+      <callsign>EGSS_TWR</callsign>
+      <name>Zainalabidin Syed</name>
+      <time_start>2012-10-09 18:00:00</time_start>
+      <time_end>2012-10-09 19:30:00</time_end>
+      <cid>1223364</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-06 14:12:52</added>
+    </booking>
+    <booking>
+      <id>983169480</id>
+      <callsign>EDDF_TWR</callsign>
+      <name>Michael Fischer</name>
+      <time_start>2012-10-09 18:00:00</time_start>
+      <time_end>2012-10-09 20:00:00</time_end>
+      <cid>1207297</cid>
+      <src_ip>188.97.159.123</src_ip>
+      <added>2012-10-07 23:00:08</added>
+    </booking>
+    <booking>
+      <id>230556853</id>
+      <callsign>EDDK_TWR</callsign>
+      <name>Kai Jordan</name>
+      <time_start>2012-10-09 18:00:00</time_start>
+      <time_end>2012-10-09 20:00:00</time_end>
+      <cid>1207674</cid>
+      <src_ip>93.193.219.102</src_ip>
+      <added>2012-09-24 12:18:51</added>
+    </booking>
+    <booking>
+      <id>421869670</id>
+      <callsign>EPWA_S_APP</callsign>
+      <name>Marcin Blitek</name>
+      <time_start>2012-10-09 18:00:00</time_start>
+      <time_end>2012-10-09 20:00:00</time_end>
+      <cid>1023507</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-03 22:18:09</added>
+    </booking>
+    <booking>
+      <id>578681557</id>
+      <callsign>EGKA_APP</callsign>
+      <name>Callum Presley</name>
+      <time_start>2012-10-09 18:00:00</time_start>
+      <time_end>2012-10-09 20:30:00</time_end>
+      <cid>975002</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-08 09:13:33</added>
+    </booking>
+    <booking>
+      <id>110991031</id>
+      <callsign>EKCH_APP</callsign>
+      <name>Necmi Tekin Silistireli</name>
+      <time_start>2012-10-09 18:00:00</time_start>
+      <time_end>2012-10-09 21:00:00</time_end>
+      <cid>1008925</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-07 19:58:15</added>
+    </booking>
+    <booking>
+      <id>385186391</id>
+      <callsign>EKDK_CTR</callsign>
+      <name>Semir Gebran</name>
+      <time_start>2012-10-09 18:00:00</time_start>
+      <time_end>2012-10-09 21:00:00</time_end>
+      <cid>1148433</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-07 22:14:34</added>
+    </booking>
+    <booking>
+      <id>455509699</id>
+      <callsign>LSZH_TWR</callsign>
+      <name>Thomas von Ah</name>
+      <time_start>2012-10-09 18:00:00</time_start>
+      <time_end>2012-10-09 21:00:00</time_end>
+      <cid>0</cid>
+      <src_ip>188.40.69.86</src_ip>
+      <added>2012-10-08 08:58:46</added>
+    </booking>
+    <booking>
+      <id>460653346</id>
+      <callsign>EGGD_TWR</callsign>
+      <name>Joe Gough</name>
+      <time_start>2012-10-09 18:30:00</time_start>
+      <time_end>2012-10-09 20:00:00</time_end>
+      <cid>1195656</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-05 16:22:55</added>
+    </booking>
+    <booking>
+      <id>110098002</id>
+      <callsign>EGBJ_APP</callsign>
+      <name>Michael Pike</name>
+      <time_start>2012-10-09 18:45:00</time_start>
+      <time_end>2012-10-09 21:00:00</time_end>
+      <cid>812012</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-04 23:43:04</added>
+    </booking>
+    <booking>
+      <id>468836809</id>
+      <callsign>EGSS_GND</callsign>
+      <name>Paul Cooper</name>
+      <time_start>2012-10-09 19:00:00</time_start>
+      <time_end>2012-10-09 20:00:00</time_end>
+      <cid>1097821</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-07 15:21:20</added>
+    </booking>
+    <booking>
+      <id>932283840</id>
+      <callsign>LFPG_GND</callsign>
+      <name>stephane delecraz</name>
+      <time_start>2012-10-09 19:00:00</time_start>
+      <time_end>2012-10-09 20:30:00</time_end>
+      <cid>1119016</cid>
+      <src_ip>46.105.126.114</src_ip>
+      <added>2012-10-07 06:44:35</added>
+    </booking>
+    <booking>
+      <id>726353421</id>
+      <callsign>EGPF_TWR</callsign>
+      <name>Chris Crawf</name>
+      <time_start>2012-10-09 19:00:00</time_start>
+      <time_end>2012-10-09 21:00:00</time_end>
+      <cid>1218450</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-04 16:26:21</added>
+    </booking>
+    <booking>
+      <id>650560062</id>
+      <callsign>EGPF_APP</callsign>
+      <name>VATUK Examination Team</name>
+      <time_start>2012-10-09 19:00:00</time_start>
+      <time_end>2012-10-09 21:00:00</time_end>
+      <cid>-1</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-04 13:45:20</added>
+    </booking>
+    <booking>
+      <id>91003714</id>
+      <callsign>EGPF_GND</callsign>
+      <name>Ryan Castle</name>
+      <time_start>2012-10-09 19:00:00</time_start>
+      <time_end>2012-10-09 21:00:00</time_end>
+      <cid>1188307</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-05 13:16:38</added>
+    </booking>
+    <booking>
+      <id>88608913</id>
+      <callsign>LFPG_TWR</callsign>
+      <name>Florian Rimoli</name>
+      <time_start>2012-10-09 19:00:00</time_start>
+      <time_end>2012-10-09 21:00:00</time_end>
+      <cid>1225664</cid>
+      <src_ip>46.105.126.114</src_ip>
+      <added>2012-10-08 10:17:49</added>
+    </booking>
+    <booking>
+      <id>208341535</id>
+      <callsign>EGSS_TWR</callsign>
+      <name>Alex Bloomfield</name>
+      <time_start>2012-10-09 19:30:00</time_start>
+      <time_end>2012-10-09 21:00:00</time_end>
+      <cid>1090429</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-03 18:54:38</added>
+    </booking>
+    <booking>
+      <id>733869646</id>
+      <callsign>EGSS_TWR</callsign>
+      <name>Marco Collura</name>
+      <time_start>2012-10-10 17:00:00</time_start>
+      <time_end>2012-10-10 18:00:00</time_end>
+      <cid>1181888</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-07 15:23:15</added>
+    </booking>
+    <booking>
+      <id>812826212</id>
+      <callsign>EGPH_OBS</callsign>
+      <name>Matt Wojciechowski</name>
+      <time_start>2012-10-10 17:00:00</time_start>
+      <time_end>2012-10-10 19:00:00</time_end>
+      <cid>1235084</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-07 19:20:09</added>
+    </booking>
+    <booking>
+      <id>744479127</id>
+      <callsign>ENGM_TWR</callsign>
+      <name>Anders Merch Grønmyr</name>
+      <time_start>2012-10-10 17:00:00</time_start>
+      <time_end>2012-10-10 20:00:00</time_end>
+      <cid>1067921</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-07 19:28:19</added>
+    </booking>
+    <booking>
+      <id>955741275</id>
+      <callsign>ENGM_APP</callsign>
+      <name>Anders Merch Grønmyr</name>
+      <time_start>2012-10-10 17:00:00</time_start>
+      <time_end>2012-10-10 20:00:00</time_end>
+      <cid>1067921</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-07 19:28:37</added>
+    </booking>
+    <booking>
+      <id>139813414</id>
+      <callsign>EDDG_APP</callsign>
+      <name>Sebastian Wittke</name>
+      <time_start>2012-10-10 17:00:00</time_start>
+      <time_end>2012-10-10 21:00:00</time_end>
+      <cid>1204742</cid>
+      <src_ip>178.201.216.74</src_ip>
+      <added>2012-10-01 17:21:02</added>
+    </booking>
+    <booking>
+      <id>114349445</id>
+      <callsign>EDDM_N_TWR</callsign>
+      <name>Roland Winklmeier</name>
+      <time_start>2012-10-10 17:00:00</time_start>
+      <time_end>2012-10-10 21:00:00</time_end>
+      <cid>1047266</cid>
+      <src_ip>188.174.63.35</src_ip>
+      <added>2012-09-30 17:49:38</added>
+    </booking>
+    <booking>
+      <id>69484666</id>
+      <callsign>EDDM_N_APP</callsign>
+      <name>Max Friedrich</name>
+      <time_start>2012-10-10 17:00:00</time_start>
+      <time_end>2012-10-10 21:00:00</time_end>
+      <cid>1206990</cid>
+      <src_ip>91.2.43.97</src_ip>
+      <added>2012-10-03 19:49:00</added>
+    </booking>
+    <booking>
+      <id>710080191</id>
+      <callsign>EBBU_CTR</callsign>
+      <name>Erik Wachters</name>
+      <time_start>2012-10-10 17:30:00</time_start>
+      <time_end>2012-10-10 19:30:00</time_end>
+      <cid>815026</cid>
+      <src_ip>81.83.91.235</src_ip>
+      <added>2012-10-07 15:42:11</added>
+    </booking>
+    <booking>
+      <id>70708304</id>
+      <callsign>EHGG_GND</callsign>
+      <name>Bert Galjaard</name>
+      <time_start>2012-10-10 18:00:00</time_start>
+      <time_end>2012-10-10 19:30:00</time_end>
+      <cid>0</cid>
+      <src_ip>77.170.161.49</src_ip>
+      <added>2012-10-05 08:37:56</added>
+    </booking>
+    <booking>
+      <id>977382046</id>
+      <callsign>EHGG_APP</callsign>
+      <name>Peter Bremer</name>
+      <time_start>2012-10-10 18:00:00</time_start>
+      <time_end>2012-10-10 19:30:00</time_end>
+      <cid>0</cid>
+      <src_ip>82.161.133.116</src_ip>
+      <added>2012-10-07 06:29:23</added>
+    </booking>
+    <booking>
+      <id>399709296</id>
+      <callsign>LON_S_CTR</callsign>
+      <name>Nathan Donnelly</name>
+      <time_start>2012-10-10 18:00:00</time_start>
+      <time_end>2012-10-10 19:30:00</time_end>
+      <cid>1138314</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-07 17:49:05</added>
+    </booking>
+    <booking>
+      <id>246967792</id>
+      <callsign>EHAM_N_GND</callsign>
+      <name>Marcel Zwitser</name>
+      <time_start>2012-10-10 18:00:00</time_start>
+      <time_end>2012-10-10 20:00:00</time_end>
+      <cid>0</cid>
+      <src_ip>87.211.60.62</src_ip>
+      <added>2012-10-02 19:25:15</added>
+    </booking>
+    <booking>
+      <id>183173603</id>
+      <callsign>EPWA_S_APP</callsign>
+      <name>Rafał Bardel</name>
+      <time_start>2012-10-10 18:00:00</time_start>
+      <time_end>2012-10-10 20:00:00</time_end>
+      <cid>863937</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-04 07:19:32</added>
+    </booking>
+    <booking>
+      <id>990597466</id>
+      <callsign>EPWA_TWR</callsign>
+      <name>Magdalena Kanicka</name>
+      <time_start>2012-10-10 18:00:00</time_start>
+      <time_end>2012-10-10 20:00:00</time_end>
+      <cid>1172933</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-04 17:03:38</added>
+    </booking>
+    <booking>
+      <id>487023888</id>
+      <callsign>LKPR_GND</callsign>
+      <name>Jakub Kolář</name>
+      <time_start>2012-10-10 18:00:00</time_start>
+      <time_end>2012-10-10 20:00:00</time_end>
+      <cid>1190571</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-08 14:42:54</added>
+    </booking>
+    <booking>
+      <id>269148586</id>
+      <callsign>LOVV_CTR</callsign>
+      <name>Martin Tiefenbacher</name>
+      <time_start>2012-10-10 18:00:00</time_start>
+      <time_end>2012-10-10 21:00:00</time_end>
+      <cid>1092003</cid>
+      <src_ip>188.40.96.146</src_ip>
+      <added>2012-10-08 08:01:42</added>
+    </booking>
+    <booking>
+      <id>584187659</id>
+      <callsign>EGKK_TWR</callsign>
+      <name>Sam Martinez</name>
+      <time_start>2012-10-10 18:30:00</time_start>
+      <time_end>2012-10-10 20:00:00</time_end>
+      <cid>1061917</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-03 21:54:52</added>
+    </booking>
+    <booking>
+      <id>544273689</id>
+      <callsign>EGGP_APP</callsign>
+      <name>Jim Johnson</name>
+      <time_start>2012-10-10 18:30:00</time_start>
+      <time_end>2012-10-10 20:30:00</time_end>
+      <cid>970018</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-08 08:04:23</added>
+    </booking>
+    <booking>
+      <id>973752624</id>
+      <callsign>THAMES_APP</callsign>
+      <name>Kieran McAlea</name>
+      <time_start>2012-10-10 19:30:00</time_start>
+      <time_end>2012-10-10 21:00:00</time_end>
+      <cid>1140671</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-07 17:46:12</added>
+    </booking>
+    <booking>
+      <id>972750809</id>
+      <callsign>ESSA_TWR</callsign>
+      <name>Filip Holmström</name>
+      <time_start>2012-10-11 16:00:00</time_start>
+      <time_end>2012-10-11 18:30:00</time_end>
+      <cid>1215783</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-07 14:36:20</added>
+    </booking>
+    <booking>
+      <id>424922816</id>
+      <callsign>ESSA_APP</callsign>
+      <name>John Brander</name>
+      <time_start>2012-10-11 16:00:00</time_start>
+      <time_end>2012-10-11 18:30:00</time_end>
+      <cid>1112485</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-07 14:37:03</added>
+    </booking>
+    <booking>
+      <id>243446900</id>
+      <callsign>EDDS_N_APP</callsign>
+      <name>Henner Reich</name>
+      <time_start>2012-10-11 17:00:00</time_start>
+      <time_end>2012-10-11 20:00:00</time_end>
+      <cid>918957</cid>
+      <src_ip>178.191.224.78</src_ip>
+      <added>2012-10-03 11:29:34</added>
+    </booking>
+    <booking>
+      <id>48132012</id>
+      <callsign>EDGG_CTR</callsign>
+      <name>Cedric Lichtenberg</name>
+      <time_start>2012-10-11 17:00:00</time_start>
+      <time_end>2012-10-11 20:45:00</time_end>
+      <cid>962468</cid>
+      <src_ip>109.91.84.199</src_ip>
+      <added>2012-10-07 22:06:08</added>
+    </booking>
+    <booking>
+      <id>164023486</id>
+      <callsign>EGKA_APP</callsign>
+      <name>Callum Presley</name>
+      <time_start>2012-10-11 18:00:00</time_start>
+      <time_end>2012-10-11 20:30:00</time_end>
+      <cid>975002</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-08 09:14:41</added>
+    </booking>
+    <booking>
+      <id>561661614</id>
+      <callsign>EDDH_TWR</callsign>
+      <name>Lothar Gentzsch</name>
+      <time_start>2012-10-11 18:00:00</time_start>
+      <time_end>2012-10-11 22:00:00</time_end>
+      <cid>982474</cid>
+      <src_ip>79.225.244.139</src_ip>
+      <added>2012-10-05 11:18:03</added>
+    </booking>
+    <booking>
+      <id>831074242</id>
+      <callsign>EGGP_APP</callsign>
+      <name>Martin Honan</name>
+      <time_start>2012-10-11 18:30:00</time_start>
+      <time_end>2012-10-11 20:00:00</time_end>
+      <cid>1215804</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-08 12:17:25</added>
+    </booking>
+    <booking>
+      <id>933136559</id>
+      <callsign>EGBJ_APP</callsign>
+      <name>Michael Pike</name>
+      <time_start>2012-10-11 18:45:00</time_start>
+      <time_end>2012-10-11 21:00:00</time_end>
+      <cid>812012</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-04 23:43:16</added>
+    </booking>
+    <booking>
+      <id>640066725</id>
+      <callsign>EGLL_N_APP</callsign>
+      <name>Luke Brown</name>
+      <time_start>2012-10-11 19:00:00</time_start>
+      <time_end>2012-10-11 20:00:00</time_end>
+      <cid>1116943</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-07 10:28:23</added>
+    </booking>
+    <booking>
+      <id>595478556</id>
+      <callsign>EDDP_APP</callsign>
+      <name>Florian Hoerhold</name>
+      <time_start>2012-10-11 19:00:00</time_start>
+      <time_end>2012-10-11 21:00:00</time_end>
+      <cid>1059036</cid>
+      <src_ip>178.0.83.172</src_ip>
+      <added>2012-09-28 13:15:40</added>
+    </booking>
+    <booking>
+      <id>622416332</id>
+      <callsign>EDDP_APP</callsign>
+      <name>Gabor Kraneis</name>
+      <time_start>2012-10-12 18:00:00</time_start>
+      <time_end>2012-10-12 20:00:00</time_end>
+      <cid>1057842</cid>
+      <src_ip>88.72.61.133</src_ip>
+      <added>2012-09-12 00:56:50</added>
+    </booking>
+    <booking>
+      <id>478557046</id>
+      <callsign>EDDF_W_GND</callsign>
+      <name>Joshua Zins</name>
+      <time_start>2012-10-12 18:00:00</time_start>
+      <time_end>2012-10-12 21:00:00</time_end>
+      <cid>1202087</cid>
+      <src_ip>87.179.150.200</src_ip>
+      <added>2012-10-05 10:53:49</added>
+    </booking>
+    <booking>
+      <id>969561658</id>
+      <callsign>EDDF_TWR</callsign>
+      <name>David Kirchner</name>
+      <time_start>2012-10-12 18:00:00</time_start>
+      <time_end>2012-10-12 21:00:00</time_end>
+      <cid>1196986</cid>
+      <src_ip>109.91.228.192</src_ip>
+      <added>2012-10-06 10:12:54</added>
+    </booking>
+    <booking>
+      <id>200305604</id>
+      <callsign>THAMES_APP</callsign>
+      <name>Richard Keen</name>
+      <time_start>2012-10-12 18:30:00</time_start>
+      <time_end>2012-10-12 21:00:00</time_end>
+      <cid>937253</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-09-14 15:33:30</added>
+    </booking>
+    <booking>
+      <id>541540704</id>
+      <callsign>P1_VATSIM</callsign>
+      <name>VATUK Examination Team</name>
+      <time_start>2012-10-12 19:00:00</time_start>
+      <time_end>2012-10-12 20:00:00</time_end>
+      <cid>-1</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-09-30 13:56:53</added>
+    </booking>
+    <booking>
+      <id>222453639</id>
+      <callsign>LFMN_APP</callsign>
+      <name>jean tirancourt</name>
+      <time_start>2012-10-12 19:00:00</time_start>
+      <time_end>2012-10-12 21:00:00</time_end>
+      <cid>1047231</cid>
+      <src_ip>46.105.126.114</src_ip>
+      <added>2012-10-06 10:03:06</added>
+    </booking>
+    <booking>
+      <id>676786789</id>
+      <callsign>LFRB_APP</callsign>
+      <name>Christophe Billaux</name>
+      <time_start>2012-10-12 19:00:00</time_start>
+      <time_end>2012-10-12 21:00:00</time_end>
+      <cid>1198355</cid>
+      <src_ip>46.105.126.114</src_ip>
+      <added>2012-10-02 14:50:51</added>
+    </booking>
+    <booking>
+      <id>925126682</id>
+      <callsign>LIPZ_APP</callsign>
+      <name>Fabio Visotti</name>
+      <time_start>2012-10-12 19:00:00</time_start>
+      <time_end>2012-10-12 21:00:00</time_end>
+      <cid>861790</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-05 20:32:29</added>
+    </booking>
+    <booking>
+      <id>753358010</id>
+      <callsign>LEIB_TWR</callsign>
+      <name>Pau Gimeno</name>
+      <time_start>2012-10-13 14:00:00</time_start>
+      <time_end>2012-10-13 18:00:00</time_end>
+      <cid>1177021</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-09-05 15:21:44</added>
+    </booking>
+    <booking>
+      <id>817754951</id>
+      <callsign>LOWW_GND</callsign>
+      <name>Mladen Klickovic</name>
+      <time_start>2012-10-13 16:00:00</time_start>
+      <time_end>2012-10-13 18:00:00</time_end>
+      <cid>1183207</cid>
+      <src_ip>188.40.96.146</src_ip>
+      <added>2012-09-10 19:25:12</added>
+    </booking>
+    <booking>
+      <id>374396895</id>
+      <callsign>LLBG_DEL</callsign>
+      <name>Omri Landman</name>
+      <time_start>2012-10-13 16:00:00</time_start>
+      <time_end>2012-10-13 20:00:00</time_end>
+      <cid>1226210</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-08 06:37:01</added>
+    </booking>
+    <booking>
+      <id>315991766</id>
+      <callsign>LLBG_APP</callsign>
+      <name>Or Bahtari</name>
+      <time_start>2012-10-13 17:00:00</time_start>
+      <time_end>2012-10-13 20:00:00</time_end>
+      <cid>1137757</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-08 09:42:04</added>
+    </booking>
+    <booking>
+      <id>360054601</id>
+      <callsign>LLBG_TWR</callsign>
+      <name>Or Bahtari</name>
+      <time_start>2012-10-13 17:00:00</time_start>
+      <time_end>2012-10-13 20:00:00</time_end>
+      <cid>1137757</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-08 09:42:34</added>
+    </booking>
+    <booking>
+      <id>497894739</id>
+      <callsign>LLBG_W_GND</callsign>
+      <name>Or Bahtari</name>
+      <time_start>2012-10-13 17:00:00</time_start>
+      <time_end>2012-10-13 20:00:00</time_end>
+      <cid>1137757</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-08 09:43:31</added>
+    </booking>
+    <booking>
+      <id>776643190</id>
+      <callsign>LLBG_E_GND</callsign>
+      <name>Or Bahtari</name>
+      <time_start>2012-10-13 17:00:00</time_start>
+      <time_end>2012-10-13 20:00:00</time_end>
+      <cid>1137757</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-08 09:43:52</added>
+    </booking>
+    <booking>
+      <id>954602694</id>
+      <callsign>LLLL_CTR</callsign>
+      <name>Or Bahtari</name>
+      <time_start>2012-10-13 17:00:00</time_start>
+      <time_end>2012-10-13 20:00:00</time_end>
+      <cid>1137757</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-08 09:44:18</added>
+    </booking>
+    <booking>
+      <id>231007009</id>
+      <callsign>LON_S_CTR</callsign>
+      <name>Daniel Parkin</name>
+      <time_start>2012-10-13 17:30:00</time_start>
+      <time_end>2012-10-13 20:00:00</time_end>
+      <cid>927659</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-03 11:09:46</added>
+    </booking>
+    <booking>
+      <id>747366047</id>
+      <callsign>LON_E_CTR</callsign>
+      <name>Kieran Hardern</name>
+      <time_start>2012-10-13 18:00:00</time_start>
+      <time_end>2012-10-13 21:00:00</time_end>
+      <cid>1010573</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-03 11:26:29</added>
+    </booking>
+    <booking>
+      <id>202194245</id>
+      <callsign>LFMN_TWR</callsign>
+      <name>Hugo Milenkovic</name>
+      <time_start>2012-10-13 19:00:00</time_start>
+      <time_end>2012-10-13 20:30:00</time_end>
+      <cid>1179095</cid>
+      <src_ip>46.105.126.114</src_ip>
+      <added>2012-10-07 15:56:24</added>
+    </booking>
+    <booking>
+      <id>486404004</id>
+      <callsign>LPPT_TWR</callsign>
+      <name>Orlando Fernandes</name>
+      <time_start>2012-10-13 20:30:00</time_start>
+      <time_end>2012-10-14 00:00:00</time_end>
+      <cid>0</cid>
+      <src_ip>188.81.117.212</src_ip>
+      <added>2012-10-06 00:52:30</added>
+    </booking>
+    <booking>
+      <id>122464647</id>
+      <callsign>NFTF_APP</callsign>
+      <name>Mark Richards</name>
+      <time_start>2012-10-14 06:00:00</time_start>
+      <time_end>2012-10-14 10:00:00</time_end>
+      <cid>811451</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-03 02:42:16</added>
+    </booking>
+    <booking>
+      <id>729226418</id>
+      <callsign>NZZO_FSS</callsign>
+      <name>Alex Burrow</name>
+      <time_start>2012-10-14 06:00:00</time_start>
+      <time_end>2012-10-14 10:00:00</time_end>
+      <cid>1141056</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-03 06:29:34</added>
+    </booking>
+    <booking>
+      <id>211800581</id>
+      <callsign>ENGM_APP</callsign>
+      <name>Anders Merch Grønmyr</name>
+      <time_start>2012-10-14 11:00:00</time_start>
+      <time_end>2012-10-14 13:00:00</time_end>
+      <cid>1067921</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-07 11:27:21</added>
+    </booking>
+    <booking>
+      <id>484734594</id>
+      <callsign>EDDF_W_GND</callsign>
+      <name>Joshua Zins</name>
+      <time_start>2012-10-14 11:00:00</time_start>
+      <time_end>2012-10-14 14:00:00</time_end>
+      <cid>1202087</cid>
+      <src_ip>87.179.150.200</src_ip>
+      <added>2012-10-05 10:53:21</added>
+    </booking>
+    <booking>
+      <id>809857302</id>
+      <callsign>EDDF_N_APP</callsign>
+      <name>Cedric Lichtenberg</name>
+      <time_start>2012-10-14 11:00:00</time_start>
+      <time_end>2012-10-14 14:00:00</time_end>
+      <cid>962468</cid>
+      <src_ip>109.91.84.199</src_ip>
+      <added>2012-10-05 12:08:12</added>
+    </booking>
+    <booking>
+      <id>857550238</id>
+      <callsign>P2_EGGP</callsign>
+      <name>VATUK Examination Team</name>
+      <time_start>2012-10-14 13:00:00</time_start>
+      <time_end>2012-10-14 15:00:00</time_end>
+      <cid>-1</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-09-30 13:58:00</added>
+    </booking>
+    <booking>
+      <id>856859211</id>
+      <callsign>EDGG_CTR</callsign>
+      <name>Cedric Lichtenberg</name>
+      <time_start>2012-10-14 14:00:00</time_start>
+      <time_end>2012-10-14 21:00:00</time_end>
+      <cid>962468</cid>
+      <src_ip>109.91.84.199</src_ip>
+      <added>2012-10-05 12:11:28</added>
+    </booking>
+    <booking>
+      <id>521505907</id>
+      <callsign>EGKK_APP</callsign>
+      <name>Nicolas Abdelnour</name>
+      <time_start>2012-10-14 18:00:00</time_start>
+      <time_end>2012-10-14 20:00:00</time_end>
+      <cid>1177025</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-05 10:30:27</added>
+    </booking>
+    <booking>
+      <id>117720328</id>
+      <callsign>ENGM_APP</callsign>
+      <name>Anders Merch Grønmyr</name>
+      <time_start>2012-10-14 18:00:00</time_start>
+      <time_end>2012-10-14 20:00:00</time_end>
+      <cid>1067921</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-07 11:26:49</added>
+    </booking>
+    <booking>
+      <id>951553973</id>
+      <callsign>LCCC_CTR</callsign>
+      <name>noi farhi</name>
+      <time_start>2012-10-14 18:00:00</time_start>
+      <time_end>2012-10-14 21:00:00</time_end>
+      <cid>1052945</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-01 21:03:01</added>
+    </booking>
+    <booking>
+      <id>319353862</id>
+      <callsign>EDDL_TWR</callsign>
+      <name>Kai Jordan</name>
+      <time_start>2012-10-15 18:00:00</time_start>
+      <time_end>2012-10-15 20:00:00</time_end>
+      <cid>1207674</cid>
+      <src_ip>93.193.219.102</src_ip>
+      <added>2012-09-24 12:23:36</added>
+    </booking>
+    <booking>
+      <id>485577393</id>
+      <callsign>EGBJ_APP</callsign>
+      <name>Michael Pike</name>
+      <time_start>2012-10-15 18:00:00</time_start>
+      <time_end>2012-10-15 20:00:00</time_end>
+      <cid>812012</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-04 23:43:43</added>
+    </booking>
+    <booking>
+      <id>412055156</id>
+      <callsign>EDDT_TWR</callsign>
+      <name>Joerg Bradel</name>
+      <time_start>2012-10-15 18:00:00</time_start>
+      <time_end>2012-10-15 20:30:00</time_end>
+      <cid>1051715</cid>
+      <src_ip>93.228.19.155</src_ip>
+      <added>2012-10-01 16:06:27</added>
+    </booking>
+    <booking>
+      <id>19397919</id>
+      <callsign>EGLL_N_APP</callsign>
+      <name>Luke Brown</name>
+      <time_start>2012-10-15 19:00:00</time_start>
+      <time_end>2012-10-15 20:00:00</time_end>
+      <cid>1116943</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-07 10:29:35</added>
+    </booking>
+    <booking>
+      <id>217502881</id>
+      <callsign>EGLL_N_APP</callsign>
+      <name>Chris Locke</name>
+      <time_start>2012-10-15 19:00:00</time_start>
+      <time_end>2012-10-15 20:00:00</time_end>
+      <cid>1167006</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-07 10:30:15</added>
+    </booking>
+    <booking>
+      <id>509503607</id>
+      <callsign>LPPT_TWR</callsign>
+      <name>Orlando Fernandes</name>
+      <time_start>2012-10-15 20:00:00</time_start>
+      <time_end>2012-10-16 00:00:00</time_end>
+      <cid>0</cid>
+      <src_ip>2.80.99.230</src_ip>
+      <added>2012-09-15 00:20:01</added>
+    </booking>
+    <booking>
+      <id>680738511</id>
+      <callsign>EDDK_TWR</callsign>
+      <name>Kai Jordan</name>
+      <time_start>2012-10-16 18:00:00</time_start>
+      <time_end>2012-10-16 20:00:00</time_end>
+      <cid>1207674</cid>
+      <src_ip>93.193.219.102</src_ip>
+      <added>2012-09-24 12:22:46</added>
+    </booking>
+    <booking>
+      <id>212463876</id>
+      <callsign>LFBZ_TWR</callsign>
+      <name>Joel Lagarrigue</name>
+      <time_start>2012-10-16 18:30:00</time_start>
+      <time_end>2012-10-16 21:00:00</time_end>
+      <cid>1107750</cid>
+      <src_ip>46.105.126.114</src_ip>
+      <added>2012-10-04 08:12:00</added>
+    </booking>
+    <booking>
+      <id>364004358</id>
+      <callsign>LFRS_TWR</callsign>
+      <name>Cathy MARIANI</name>
+      <time_start>2012-10-16 18:30:00</time_start>
+      <time_end>2012-10-16 21:00:00</time_end>
+      <cid>1183082</cid>
+      <src_ip>46.105.126.114</src_ip>
+      <added>2012-10-07 09:43:17</added>
+    </booking>
+    <booking>
+      <id>134144020</id>
+      <callsign>EDDM_N_APP</callsign>
+      <name>Johann Schuhwerk</name>
+      <time_start>2012-10-17 17:00:00</time_start>
+      <time_end>2012-10-17 20:30:00</time_end>
+      <cid>1199725</cid>
+      <src_ip>46.223.116.42</src_ip>
+      <added>2012-10-07 18:46:58</added>
+    </booking>
+    <booking>
+      <id>582833876</id>
+      <callsign>EDDG_TWR</callsign>
+      <name>Florian Rauch</name>
+      <time_start>2012-10-17 18:00:00</time_start>
+      <time_end>2012-10-17 20:00:00</time_end>
+      <cid>1218471</cid>
+      <src_ip>178.203.114.215</src_ip>
+      <added>2012-10-08 10:12:57</added>
+    </booking>
+    <booking>
+      <id>576333321</id>
+      <callsign>EGBJ_APP</callsign>
+      <name>Michael Pike</name>
+      <time_start>2012-10-17 18:45:00</time_start>
+      <time_end>2012-10-17 21:00:00</time_end>
+      <cid>812012</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-04 23:43:57</added>
+    </booking>
+    <booking>
+      <id>536950322</id>
+      <callsign>EDDL_TWR</callsign>
+      <name>Leonardo Grani</name>
+      <time_start>2012-10-18 18:00:00</time_start>
+      <time_end>2012-10-18 20:00:00</time_end>
+      <cid>1195314</cid>
+      <src_ip>77.177.99.185</src_ip>
+      <added>2012-10-08 08:09:35</added>
+    </booking>
+    <booking>
+      <id>354051379</id>
+      <callsign>EDDG_TWR</callsign>
+      <name>Florian Rauch</name>
+      <time_start>2012-10-19 18:00:00</time_start>
+      <time_end>2012-10-19 20:00:00</time_end>
+      <cid>1218471</cid>
+      <src_ip>178.203.114.215</src_ip>
+      <added>2012-09-29 21:43:12</added>
+    </booking>
+    <booking>
+      <id>341641528</id>
+      <callsign>EDDP_APP</callsign>
+      <name>Gabor Kraneis</name>
+      <time_start>2012-10-19 18:00:00</time_start>
+      <time_end>2012-10-19 20:00:00</time_end>
+      <cid>1057842</cid>
+      <src_ip>92.224.233.171</src_ip>
+      <added>2012-09-29 14:39:29</added>
+    </booking>
+    <booking>
+      <id>846026720</id>
+      <callsign>EDDF_W_GND</callsign>
+      <name>Robin Olejnik</name>
+      <time_start>2012-10-19 18:00:00</time_start>
+      <time_end>2012-10-19 21:00:00</time_end>
+      <cid>1212048</cid>
+      <src_ip>88.152.133.30</src_ip>
+      <added>2012-10-05 21:18:09</added>
+    </booking>
+    <booking>
+      <id>692199868</id>
+      <callsign>EDDF_TWR</callsign>
+      <name>Kyle Watkins</name>
+      <time_start>2012-10-19 18:00:00</time_start>
+      <time_end>2012-10-19 21:00:00</time_end>
+      <cid>1151068</cid>
+      <src_ip>87.177.22.152</src_ip>
+      <added>2012-10-06 15:17:10</added>
+    </booking>
+    <booking>
+      <id>296901813</id>
+      <callsign>EDDV_APP</callsign>
+      <name>Joerg Buesing</name>
+      <time_start>2012-10-19 18:00:00</time_start>
+      <time_end>2012-10-19 21:00:00</time_end>
+      <cid>983922</cid>
+      <src_ip>93.198.204.221</src_ip>
+      <added>2012-09-29 23:22:15</added>
+    </booking>
+    <booking>
+      <id>359848250</id>
+      <callsign>EGFF_APP</callsign>
+      <name>Mark Cable</name>
+      <time_start>2012-10-19 18:30:00</time_start>
+      <time_end>2012-10-19 20:30:00</time_end>
+      <cid>947613</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-04 14:43:50</added>
+    </booking>
+    <booking>
+      <id>167835003</id>
+      <callsign>THAMES_APP</callsign>
+      <name>Richard Keen</name>
+      <time_start>2012-10-19 18:30:00</time_start>
+      <time_end>2012-10-19 21:00:00</time_end>
+      <cid>937253</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-09-14 15:33:41</added>
+    </booking>
+    <booking>
+      <id>880358792</id>
+      <callsign>EGGX_FSS</callsign>
+      <name>Gunnar Lindahl</name>
+      <time_start>2012-10-20 11:00:00</time_start>
+      <time_end>2012-10-20 23:00:00</time_end>
+      <cid>967365</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-08-28 10:58:18</added>
+    </booking>
+    <booking>
+      <id>154857213</id>
+      <callsign>EGPX_CTR</callsign>
+      <name>Michal Fira</name>
+      <time_start>2012-10-20 11:00:00</time_start>
+      <time_end>2012-10-20 23:00:00</time_end>
+      <cid>1117392</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-09-23 14:59:57</added>
+    </booking>
+    <booking>
+      <id>58783285</id>
+      <callsign>EGKK_APP</callsign>
+      <name>Alex Wraith</name>
+      <time_start>2012-10-20 16:00:00</time_start>
+      <time_end>2012-10-20 23:00:00</time_end>
+      <cid>1050317</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-08-28 16:42:45</added>
+    </booking>
+    <booking>
+      <id>841224571</id>
+      <callsign>EGGD_APP</callsign>
+      <name>Bradley De-Lar</name>
+      <time_start>2012-10-20 18:00:00</time_start>
+      <time_end>2012-10-20 20:00:00</time_end>
+      <cid>1056861</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-07 19:07:05</added>
+    </booking>
+    <booking>
+      <id>592698067</id>
+      <callsign>NZOH_CTR</callsign>
+      <name>Mark Richards</name>
+      <time_start>2012-10-21 06:00:00</time_start>
+      <time_end>2012-10-21 10:00:00</time_end>
+      <cid>811451</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-03 02:43:17</added>
+    </booking>
+    <booking>
+      <id>967104016</id>
+      <callsign>EGLD_I_TWR</callsign>
+      <name>James Lewis</name>
+      <time_start>2012-10-21 13:30:00</time_start>
+      <time_end>2012-10-21 18:00:00</time_end>
+      <cid>1084306</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-09-19 14:13:46</added>
+    </booking>
+    <booking>
+      <id>197681500</id>
+      <callsign>LEVT_GND</callsign>
+      <name>Paco Xurado</name>
+      <time_start>2012-10-21 16:00:00</time_start>
+      <time_end>2012-10-21 18:00:00</time_end>
+      <cid>984000</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-07 18:48:54</added>
+    </booking>
+    <booking>
+      <id>340851978</id>
+      <callsign>EDDL_TWR</callsign>
+      <name>Henrik Funke</name>
+      <time_start>2012-10-22 18:00:00</time_start>
+      <time_end>2012-10-22 20:00:00</time_end>
+      <cid>1193131</cid>
+      <src_ip>79.203.190.99</src_ip>
+      <added>2012-09-24 20:32:48</added>
+    </booking>
+    <booking>
+      <id>436814118</id>
+      <callsign>EGFF_APP</callsign>
+      <name>Mark Cable</name>
+      <time_start>2012-10-22 18:30:00</time_start>
+      <time_end>2012-10-22 21:30:00</time_end>
+      <cid>947613</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-06 09:13:01</added>
+    </booking>
+    <booking>
+      <id>989152959</id>
+      <callsign>EDDK_TWR</callsign>
+      <name>Richard Klein</name>
+      <time_start>2012-10-23 18:00:00</time_start>
+      <time_end>2012-10-23 20:00:00</time_end>
+      <cid>1223995</cid>
+      <src_ip>130.180.34.57</src_ip>
+      <added>2012-09-25 21:21:06</added>
+    </booking>
+    <booking>
+      <id>433491458</id>
+      <callsign>LPPC_CTR</callsign>
+      <name>Miguel Frias</name>
+      <time_start>2012-10-23 19:00:00</time_start>
+      <time_end>2012-10-23 22:30:00</time_end>
+      <cid>0</cid>
+      <src_ip>95.136.42.49</src_ip>
+      <added>2012-09-26 10:27:39</added>
+    </booking>
+    <booking>
+      <id>468191252</id>
+      <callsign>LFMM_CTR</callsign>
+      <name>Cathy MARIANI</name>
+      <time_start>2012-10-26 18:00:00</time_start>
+      <time_end>2012-10-26 21:00:00</time_end>
+      <cid>1183082</cid>
+      <src_ip>46.105.126.114</src_ip>
+      <added>2012-10-07 09:45:34</added>
+    </booking>
+    <booking>
+      <id>592187192</id>
+      <callsign>LSZB_TWR</callsign>
+      <name>Andre Bohni</name>
+      <time_start>2012-10-26 18:00:00</time_start>
+      <time_end>2012-10-26 21:00:00</time_end>
+      <cid>0</cid>
+      <src_ip>188.40.69.86</src_ip>
+      <added>2012-09-29 12:32:09</added>
+    </booking>
+    <booking>
+      <id>480498906</id>
+      <callsign>THAMES_APP</callsign>
+      <name>Richard Keen</name>
+      <time_start>2012-10-26 18:30:00</time_start>
+      <time_end>2012-10-26 21:00:00</time_end>
+      <cid>937253</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-09-14 15:33:55</added>
+    </booking>
+    <booking>
+      <id>933850796</id>
+      <callsign>ESOS_CTR</callsign>
+      <name>Hakan Schulz</name>
+      <time_start>2012-10-27 10:00:00</time_start>
+      <time_end>2012-10-27 15:00:00</time_end>
+      <cid>937154</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-04 02:48:13</added>
+    </booking>
+    <booking>
+      <id>808565033</id>
+      <callsign>LECM_C_CTR</callsign>
+      <name>Jorge Marzovillo</name>
+      <time_start>2012-10-27 15:00:00</time_start>
+      <time_end>2012-10-27 19:00:00</time_end>
+      <cid>1174632</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-06 23:44:17</added>
+    </booking>
+    <booking>
+      <id>425008350</id>
+      <callsign>LEMD_E_APP</callsign>
+      <name>Pedro de Esteban</name>
+      <time_start>2012-10-27 15:00:00</time_start>
+      <time_end>2012-10-27 19:00:00</time_end>
+      <cid>1139836</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-06 23:17:38</added>
+    </booking>
+    <booking>
+      <id>677663147</id>
+      <callsign>LEMD_D_APP</callsign>
+      <name>Francisco Genevo</name>
+      <time_start>2012-10-27 15:00:00</time_start>
+      <time_end>2012-10-27 19:00:00</time_end>
+      <cid>1169745</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-06 23:44:02</added>
+    </booking>
+    <booking>
+      <id>624308603</id>
+      <callsign>LFBO_TWR</callsign>
+      <name>alain federbe</name>
+      <time_start>2012-10-27 16:00:00</time_start>
+      <time_end>2012-10-27 18:00:00</time_end>
+      <cid>1071175</cid>
+      <src_ip>46.105.126.114</src_ip>
+      <added>2012-10-06 14:20:32</added>
+    </booking>
+    <booking>
+      <id>847090857</id>
+      <callsign>LFBO_APP</callsign>
+      <name>Reda Faiz</name>
+      <time_start>2012-10-27 16:00:00</time_start>
+      <time_end>2012-10-27 18:00:00</time_end>
+      <cid>1171306</cid>
+      <src_ip>46.105.126.114</src_ip>
+      <added>2012-10-06 15:13:01</added>
+    </booking>
+    <booking>
+      <id>455151373</id>
+      <callsign>EDDF_F_APP</callsign>
+      <name>Cedric Lichtenberg</name>
+      <time_start>2012-10-27 18:00:00</time_start>
+      <time_end>2012-10-27 20:00:00</time_end>
+      <cid>962468</cid>
+      <src_ip>109.91.84.199</src_ip>
+      <added>2012-10-07 22:17:03</added>
+    </booking>
+    <booking>
+      <id>981813250</id>
+      <callsign>LFBO_TWR</callsign>
+      <name>alain federbe</name>
+      <time_start>2012-10-27 18:00:00</time_start>
+      <time_end>2012-10-27 20:00:00</time_end>
+      <cid>1071175</cid>
+      <src_ip>46.105.126.114</src_ip>
+      <added>2012-10-06 14:21:01</added>
+    </booking>
+    <booking>
+      <id>864996790</id>
+      <callsign>LFBO_APP</callsign>
+      <name>Reda Faiz</name>
+      <time_start>2012-10-27 18:00:00</time_start>
+      <time_end>2012-10-27 20:00:00</time_end>
+      <cid>1171306</cid>
+      <src_ip>46.105.126.114</src_ip>
+      <added>2012-10-06 15:13:18</added>
+    </booking>
+    <booking>
+      <id>98053622</id>
+      <callsign>LFBO_W_APP</callsign>
+      <name>Cathy MARIANI</name>
+      <time_start>2012-10-27 18:00:00</time_start>
+      <time_end>2012-10-27 20:00:00</time_end>
+      <cid>1183082</cid>
+      <src_ip>46.105.126.114</src_ip>
+      <added>2012-10-07 09:45:07</added>
+    </booking>
+    <booking>
+      <id>978207687</id>
+      <callsign>EGLL_N_APP</callsign>
+      <name>Oliver Parker</name>
+      <time_start>2012-10-28 06:00:00</time_start>
+      <time_end>2012-10-28 09:30:00</time_end>
+      <cid>1151571</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-09-13 15:35:14</added>
+    </booking>
+    <booking>
+      <id>655843284</id>
+      <callsign>NZCH_TWR</callsign>
+      <name>Aidan Sandri</name>
+      <time_start>2012-10-28 06:00:00</time_start>
+      <time_end>2012-10-28 09:30:00</time_end>
+      <cid>1215108</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-03 05:42:16</added>
+    </booking>
+    <booking>
+      <id>616141152</id>
+      <callsign>NZCH-T_CTR</callsign>
+      <name>Mark Richards</name>
+      <time_start>2012-10-28 06:00:00</time_start>
+      <time_end>2012-10-28 10:00:00</time_end>
+      <cid>811451</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-03 02:43:47</added>
+    </booking>
+    <booking>
+      <id>571473916</id>
+      <callsign>EDFH_APP</callsign>
+      <name>Henner Reich</name>
+      <time_start>2012-10-28 18:00:00</time_start>
+      <time_end>2012-10-28 22:00:00</time_end>
+      <cid>918957</cid>
+      <src_ip>178.191.224.78</src_ip>
+      <added>2012-10-03 11:28:29</added>
+    </booking>
+    <booking>
+      <id>913245972</id>
+      <callsign>EDGG_CTR</callsign>
+      <name>Cedric Lichtenberg</name>
+      <time_start>2012-10-28 18:00:00</time_start>
+      <time_end>2012-10-28 22:00:00</time_end>
+      <cid>962468</cid>
+      <src_ip>109.91.84.199</src_ip>
+      <added>2012-10-05 12:03:10</added>
+    </booking>
+    <booking>
+      <id>938271743</id>
+      <callsign>EDDV_APP</callsign>
+      <name>Joerg Buesing</name>
+      <time_start>2012-10-28 19:00:00</time_start>
+      <time_end>2012-10-28 22:00:00</time_end>
+      <cid>983922</cid>
+      <src_ip>93.198.202.113</src_ip>
+      <added>2012-10-05 18:05:36</added>
+    </booking>
+    <booking>
+      <id>581573590</id>
+      <callsign>EDDL_TWR</callsign>
+      <name>Florian Rauch</name>
+      <time_start>2012-10-29 19:00:00</time_start>
+      <time_end>2012-10-29 21:00:00</time_end>
+      <cid>1218471</cid>
+      <src_ip>178.203.114.215</src_ip>
+      <added>2012-09-26 23:31:34</added>
+    </booking>
+    <booking>
+      <id>551107951</id>
+      <callsign>EDDK_TWR</callsign>
+      <name>Florian Rauch</name>
+      <time_start>2012-10-30 19:00:00</time_start>
+      <time_end>2012-10-30 21:00:00</time_end>
+      <cid>1218471</cid>
+      <src_ip>178.203.114.215</src_ip>
+      <added>2012-09-26 23:32:20</added>
+    </booking>
+    <booking>
+      <id>752682561</id>
+      <callsign>EDDG_TWR</callsign>
+      <name>Florian Rauch</name>
+      <time_start>2012-10-31 19:00:00</time_start>
+      <time_end>2012-10-31 21:00:00</time_end>
+      <cid>1218471</cid>
+      <src_ip>178.203.114.215</src_ip>
+      <added>2012-09-26 23:33:41</added>
+    </booking>
+    <booking>
+      <id>316519176</id>
+      <callsign>EGGP_APP</callsign>
+      <name>Callum McLoughlin</name>
+      <time_start>2012-11-04 13:00:00</time_start>
+      <time_end>2012-11-04 16:00:00</time_end>
+      <cid>1063042</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-09-22 23:11:27</added>
+    </booking>
+    <booking>
+      <id>449181529</id>
+      <callsign>EDDL_TWR</callsign>
+      <name>Stefan Greger</name>
+      <time_start>2012-11-05 18:00:00</time_start>
+      <time_end>2012-11-05 20:00:00</time_end>
+      <cid>1205749</cid>
+      <src_ip>87.139.195.66</src_ip>
+      <added>2012-10-05 12:03:36</added>
+    </booking>
+    <booking>
+      <id>175823519</id>
+      <callsign>ENGM_TWR</callsign>
+      <name>Mathias Johnsen</name>
+      <time_start>2012-11-07 09:00:00</time_start>
+      <time_end>2012-11-07 15:00:00</time_end>
+      <cid>839996</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-01 21:13:06</added>
+    </booking>
+    <booking>
+      <id>964293175</id>
+      <callsign>ENGM_W_APP</callsign>
+      <name>Magnus Meese</name>
+      <time_start>2012-11-07 10:00:00</time_start>
+      <time_end>2012-11-07 13:00:00</time_end>
+      <cid>997444</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-01 21:13:43</added>
+    </booking>
+    <booking>
+      <id>565606794</id>
+      <callsign>ENGM_E_APP</callsign>
+      <name>Kim Vanvik</name>
+      <time_start>2012-11-07 10:00:00</time_start>
+      <time_end>2012-11-07 13:00:00</time_end>
+      <cid>1004951</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-01 21:21:11</added>
+    </booking>
+    <booking>
+      <id>965984988</id>
+      <callsign>ENGM_GND</callsign>
+      <name>Svale Andrè Leren</name>
+      <time_start>2012-11-07 10:00:00</time_start>
+      <time_end>2012-11-07 13:00:00</time_end>
+      <cid>1003686</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-02 14:45:53</added>
+    </booking>
+    <booking>
+      <id>785671829</id>
+      <callsign>ENOS_8_CTR</callsign>
+      <name>Anders Moen</name>
+      <time_start>2012-11-07 10:00:00</time_start>
+      <time_end>2012-11-07 14:00:00</time_end>
+      <cid>1066135</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-01 21:31:12</added>
+    </booking>
+    <booking>
+      <id>862582956</id>
+      <callsign>ENOS_4_CTR</callsign>
+      <name>Daniel Larsen</name>
+      <time_start>2012-11-07 10:00:00</time_start>
+      <time_end>2012-11-07 14:00:00</time_end>
+      <cid>935413</cid>
+      <src_ip>46.9.213.192</src_ip>
+      <added>2012-10-01 21:29:46</added>
+    </booking>
+    <booking>
+      <id>82397942</id>
+      <callsign>ENGM_D_APP</callsign>
+      <name>Daniel Klepp</name>
+      <time_start>2012-11-07 10:00:00</time_start>
+      <time_end>2012-11-07 15:00:00</time_end>
+      <cid>1035750</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-01 21:13:09</added>
+    </booking>
+    <booking>
+      <id>999076161</id>
+      <callsign>EPWA_TWR</callsign>
+      <name>Michał Majerczuk</name>
+      <time_start>2012-11-07 15:15:00</time_start>
+      <time_end>2012-11-07 18:15:00</time_end>
+      <cid>1091056</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-08-21 16:51:36</added>
+    </booking>
+    <booking>
+      <id>184653231</id>
+      <callsign>LEMD_N_TWR</callsign>
+      <name>Jorge Marzovillo</name>
+      <time_start>2012-11-10 13:30:00</time_start>
+      <time_end>2012-11-10 19:30:00</time_end>
+      <cid>1174632</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-04 19:09:58</added>
+    </booking>
+    <booking>
+      <id>265604054</id>
+      <callsign>LEMD_E_APP</callsign>
+      <name>Guillermo Striddels</name>
+      <time_start>2012-11-10 15:00:00</time_start>
+      <time_end>2012-11-10 21:30:00</time_end>
+      <cid>937390</cid>
+      <src_ip>85.25.184.150</src_ip>
+      <added>2012-10-07 20:01:00</added>
+    </booking>
+    <booking>
+      <id>90870096</id>
+      <callsign>EGKK_GND</callsign>
+      <name>Lewis Hardcastle</name>
+      <time_start>2012-11-10 17:30:00</time_start>
+      <time_end>2012-11-10 20:00:00</time_end>
+      <cid>1226566</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-07 09:39:27</added>
+    </booking>
+    <booking>
+      <id>563658548</id>
+      <callsign>EGFF_APP</callsign>
+      <name>Bradley De-Lar</name>
+      <time_start>2012-11-10 18:00:00</time_start>
+      <time_end>2012-11-10 21:00:00</time_end>
+      <cid>1056861</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-10-07 15:36:14</added>
+    </booking>
+    <booking>
+      <id>296702199</id>
+      <callsign>EDDL_TWR</callsign>
+      <name>Florian Rauch</name>
+      <time_start>2012-11-12 19:00:00</time_start>
+      <time_end>2012-11-12 21:00:00</time_end>
+      <cid>1218471</cid>
+      <src_ip>178.203.114.215</src_ip>
+      <added>2012-09-26 23:34:37</added>
+    </booking>
+    <booking>
+      <id>675228296</id>
+      <callsign>EDDK_TWR</callsign>
+      <name>Florian Rauch</name>
+      <time_start>2012-11-13 19:00:00</time_start>
+      <time_end>2012-11-13 21:00:00</time_end>
+      <cid>1218471</cid>
+      <src_ip>178.203.114.215</src_ip>
+      <added>2012-09-26 23:35:08</added>
+    </booking>
+    <booking>
+      <id>580940310</id>
+      <callsign>EDDG_TWR</callsign>
+      <name>Florian Rauch</name>
+      <time_start>2012-11-14 19:00:00</time_start>
+      <time_end>2012-11-14 21:00:00</time_end>
+      <cid>1218471</cid>
+      <src_ip>178.203.114.215</src_ip>
+      <added>2012-09-26 23:35:24</added>
+    </booking>
+    <booking>
+      <id>362796887</id>
+      <callsign>EDDL_TWR</callsign>
+      <name>Florian Rauch</name>
+      <time_start>2012-11-26 19:00:00</time_start>
+      <time_end>2012-11-26 21:00:00</time_end>
+      <cid>1218471</cid>
+      <src_ip>178.203.114.215</src_ip>
+      <added>2012-09-26 23:36:37</added>
+    </booking>
+    <booking>
+      <id>351823058</id>
+      <callsign>EDDK_TWR</callsign>
+      <name>Florian Rauch</name>
+      <time_start>2012-11-27 19:00:00</time_start>
+      <time_end>2012-11-27 21:00:00</time_end>
+      <cid>1218471</cid>
+      <src_ip>178.203.114.215</src_ip>
+      <added>2012-09-26 23:37:06</added>
+    </booking>
+    <booking>
+      <id>269639125</id>
+      <callsign>EDDG_TWR</callsign>
+      <name>Florian Rauch</name>
+      <time_start>2012-11-28 19:00:00</time_start>
+      <time_end>2012-11-28 21:00:00</time_end>
+      <cid>1218471</cid>
+      <src_ip>178.203.114.215</src_ip>
+      <added>2012-09-26 23:37:27</added>
+    </booking>
+    <booking>
+      <id>721511442</id>
+      <callsign>EGPH_GND</callsign>
+      <name>Alex Kruczek</name>
+      <time_start>2012-11-29 18:30:00</time_start>
+      <time_end>2012-11-29 21:30:00</time_end>
+      <cid>1156092</cid>
+      <src_ip>208.77.103.174</src_ip>
+      <added>2010-12-04 15:01:30</added>
+    </booking>
+    <booking>
+      <id>917489334</id>
+      <callsign>LOWI_TWR</callsign>
+      <name>Claus Faber</name>
+      <time_start>2012-12-04 19:00:00</time_start>
+      <time_end>2012-12-04 21:00:00</time_end>
+      <cid>1183332</cid>
+      <src_ip>188.40.96.146</src_ip>
+      <added>2012-09-21 10:31:11</added>
+    </booking>
+    <booking>
+      <id>923562971</id>
+      <callsign>EDDL_TWR</callsign>
+      <name>Florian Rauch</name>
+      <time_start>2012-12-10 19:00:00</time_start>
+      <time_end>2012-12-10 21:00:00</time_end>
+      <cid>1218471</cid>
+      <src_ip>178.203.114.215</src_ip>
+      <added>2012-09-26 23:38:36</added>
+    </booking>
+    <booking>
+      <id>700657144</id>
+      <callsign>EDDK_TWR</callsign>
+      <name>Florian Rauch</name>
+      <time_start>2012-12-11 19:00:00</time_start>
+      <time_end>2012-12-11 21:00:00</time_end>
+      <cid>1218471</cid>
+      <src_ip>178.203.114.215</src_ip>
+      <added>2012-09-26 23:38:58</added>
+    </booking>
+    <booking>
+      <id>900813498</id>
+      <callsign>LOWI_TWR</callsign>
+      <name>Claus Faber</name>
+      <time_start>2012-12-11 19:00:00</time_start>
+      <time_end>2012-12-11 21:00:00</time_end>
+      <cid>1183332</cid>
+      <src_ip>188.40.96.146</src_ip>
+      <added>2012-09-21 10:31:25</added>
+    </booking>
+    <booking>
+      <id>489016776</id>
+      <callsign>EDDG_TWR</callsign>
+      <name>Florian Rauch</name>
+      <time_start>2012-12-12 19:00:00</time_start>
+      <time_end>2012-12-12 21:00:00</time_end>
+      <cid>1218471</cid>
+      <src_ip>178.203.114.215</src_ip>
+      <added>2012-09-26 23:39:16</added>
+    </booking>
+    <booking>
+      <id>803715166</id>
+      <callsign>EGGD_GND</callsign>
+      <name>Jordan Howe</name>
+      <time_start>2012-12-24 12:30:00</time_start>
+      <time_end>2012-12-24 14:00:00</time_end>
+      <cid>1196705</cid>
+      <src_ip>178.32.86.102</src_ip>
+      <added>2012-04-07 21:52:09</added>
+    </booking>
+    <booking>
+      <id>306944353</id>
+      <callsign>EGGD_GND</callsign>
+      <name>Joe Ashley</name>
+      <time_start>2012-12-24 14:30:00</time_start>
+      <time_end>2012-12-24 16:00:00</time_end>
+      <cid>1195656</cid>
+      <src_ip>178.32.86.102</src_ip>
+      <added>2012-04-07 21:52:41</added>
+    </booking>
+    <booking>
+      <id>433005738</id>
+      <callsign>SCO_CTR</callsign>
+      <name>Maciej Olborski</name>
+      <time_start>2012-12-29 16:00:00</time_start>
+      <time_end>2012-12-29 22:00:00</time_end>
+      <cid>1066926</cid>
+      <src_ip>109.169.7.143</src_ip>
+      <added>2012-08-09 13:55:17</added>
+    </booking>
+    <booking>
+      <id>1388076932</id>
+      <callsign>EGSS_TWR</callsign>
+      <name>Matt Davies</name>
+      <time_start>2013-01-01 00:00:00</time_start>
+      <time_end>2013-01-01 23:45:00</time_end>
+      <cid>0</cid>
+      <src_ip />
+      <added>2007-05-03 09:07:29</added>
+    </booking>
+  </atcs>
+  <pilots>
+    <booking>
+      <callsign>KLM112</callsign>
+      <from>2012-10-08 13:15:00</from>
+      <to>2012-10-08 16:41:00</to>
+      <dep>LGIR</dep>
+      <arr>EHAM</arr>
+      <actype>B738</actype>
+      <route>
+      OTREX UM872 PLH UB1 DDM UM619 YNN UL604 BIGGE T281 NORKU
+      </route>
+      <pid>931960</pid>
+      <name>Edwin Middelaar EHAM</name>
+    </booking>
+  </pilots>
+</bookings>

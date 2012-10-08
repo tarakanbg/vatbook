@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["svilen@rubystudio.net"]
   gem.description   = %q{Ruby API to the Vatbook service for reading Vatsim pilot and ATC bookings}
   gem.summary       = %q{Ruby API to the Vatbook service for reading Vatsim pilot and ATC bookings}
-  gem.homepage      = ""
+  gem.homepage      = "https://github.com/tarakanbg/vatbook"
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
@@ -22,4 +22,5 @@ Gem::Specification.new do |gem|
   gem.add_development_dependency "guard"
   gem.add_development_dependency "libnotify"
   gem.add_development_dependency "guard-rspec"
+  gem.add_dependency "nokogiri", "~> 1.5.5"
 end
