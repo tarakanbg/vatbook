@@ -2087,5 +2087,18 @@
       <pid>931960</pid>
       <name>Edwin Middelaar EHAM</name>
     </booking>
+    <booking>
+      <callsign>KLM113</callsign>
+      <from>2012-10-08 13:15:00</from>
+      <to>2012-10-08 16:41:00</to>
+      <dep>LGIR</dep>
+      <arr>LQSA</arr>
+      <actype>B738</actype>
+      <route>
+      OTREX UM872 PLH UB1 DDM UM619 YNN UL604 BIGGE T281 NORKU
+      </route>
+      <pid>931960</pid>
+      <name>Edwin Middelaar EHAM</name>
+    </booking>
   </pilots>
 </bookings>

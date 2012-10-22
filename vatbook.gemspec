@@ -8,7 +8,7 @@ Gem::Specification.new do |gem|
   gem.version       = Vatbook::VERSION
   gem.authors       = ["Svilen Vassilev"]
   gem.email         = ["svilen@rubystudio.net"]
-  gem.description   = %q{Ruby API to the Vatbook service for reading Vatsim pilot and ATC bookings}
+  gem.description   = %q{Ruby API to the Vatbook service for reading and parsing Vatsim pilot and ATC bookings. Booking query requests are made by FIR and individual bookings are returned as objects, exposing a rich set of attributes. Support for excluding enroute pilot bookings. Support for pulling pilot and atc bookings separately or as a combined hash.}
   gem.summary       = %q{Ruby API to the Vatbook service for reading Vatsim pilot and ATC bookings}
   gem.homepage      = "https://github.com/tarakanbg/vatbook"
 
