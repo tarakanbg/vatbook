@@ -7,7 +7,7 @@ Supports pulling pilot and atc bookings separately or as a combined hash.
 
 [![Build Status](https://secure.travis-ci.org/tarakanbg/vatbook.png?branch=master)](http://travis-ci.org/tarakanbg/vatbook)
 [![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/tarakanbg/vatbook)
-[![Gemnasium](https://gemnasium.com/tarakanbg/vatbook.png?travis)](https://gemnasium.com/tarakanbg/vatbook)
+<!-- [![Gemnasium](https://gemnasium.com/tarakanbg/vatbook.png?travis)](https://gemnasium.com/tarakanbg/vatbook) -->
 
 
 ## Installation
