@@ -2,8 +2,13 @@
 
 Ruby API to the Vatbook service for reading and parsing Vatsim pilot and ATC bookings.
 Booking query requests are made by FIR and individual bookings are returned as
-objects, exposing a rich set of attributes. Support for excluding enroute pilot bookings.
-Support for pulling pilot and atc bookings separately or as a combined hash.
+objects, exposing a rich set of attributes. Supports excluding enroute pilot bookings.
+Supports pulling pilot and atc bookings separately or as a combined hash.
+
+[![Build Status](https://secure.travis-ci.org/tarakanbg/vatbook.png?branch=master)](http://travis-ci.org/tarakanbg/vatbook)
+[![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/tarakanbg/vatbook)
+[![Gemnasium](https://gemnasium.com/tarakanbg/vatbook.png?travis)](https://gemnasium.com/tarakanbg/vatbook)
+
 
 ## Installation
 
@@ -135,4 +140,4 @@ Copyright © 2012 [Svilen Vassilev](http://about.me/svilen)
 [![endorse](http://api.coderwall.com/svilenv/endorse.png)](http://coderwall.com/svilenv)
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5FR7AQA4PLD8A)
 
-Released under the [MIT LICENSE](https://github.com/tarakanbg/vatbook/blob/master/LICENSE)
+Released under the [MIT LICENSE](https://github.com/tarakanbg/vatbook/blob/master/LICENSE.txt)
