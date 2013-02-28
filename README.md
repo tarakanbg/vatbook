@@ -6,8 +6,9 @@ objects, exposing a rich set of attributes. Supports excluding enroute pilot boo
 Supports pulling pilot and atc bookings separately or as a combined hash.
 
 [![Build Status](https://secure.travis-ci.org/tarakanbg/vatbook.png?branch=master)](http://travis-ci.org/tarakanbg/vatbook)
-[![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/tarakanbg/vatbook)
-<!-- [![Gemnasium](https://gemnasium.com/tarakanbg/vatbook.png?travis)](https://gemnasium.com/tarakanbg/vatbook) -->
+[![Gemnasium](https://gemnasium.com/tarakanbg/vatbook.png?travis)](https://gemnasium.com/tarakanbg/vatbook)
+[![Gem Version](https://badge.fury.io/rb/vatbook.png)](http://badge.fury.io/rb/vatbook)
+[![Code Climate](https://codeclimate.com/github/tarakanbg/vatbook.png)](https://codeclimate.com/github/tarakanbg/vatbook)
 
 
 ## Installation
@@ -118,6 +119,12 @@ airports. Example:
 
 ## Changelog
 
+### v. 0.2 - 28 February 2013
+
+* Ruby 2.0 support
+* dependencies update
+* classes refactored
+
 ### v. 0.1 - 22 October 2012
 
 * Initial release
@@ -133,11 +140,11 @@ airports. Example:
 
 ## Credits
 
-Copyright © 2012 [Svilen Vassilev](http://about.me/svilen)
+Copyright © 2013 [Svilen Vassilev](http://svilen.rubystudio.net)
 
-*If you find my work useful or time-saving, you can endorse it or buy me a beer:*
+*If you find my work useful or time-saving, you can endorse it or buy me a cup of coffee:*
 
-[![endorse](http://api.coderwall.com/svilenv/endorse.png)](http://coderwall.com/svilenv)
+[![endorse](http://api.coderwall.com/svilenv/endorsecount.png)](http://coderwall.com/svilenv)
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5FR7AQA4PLD8A)
 
-Released under the [MIT LICENSE](https://github.com/tarakanbg/vatbook/blob/master/LICENSE.txt)
+Released under the [MIT LICENSE](https://github.com/tarakanbg/vatbook/blob/master/LICENSE)
