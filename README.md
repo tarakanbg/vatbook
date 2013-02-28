@@ -10,6 +10,9 @@ Supports pulling pilot and atc bookings separately or as a combined hash.
 [![Gem Version](https://badge.fury.io/rb/vatbook.png)](http://badge.fury.io/rb/vatbook)
 [![Code Climate](https://codeclimate.com/github/tarakanbg/vatbook.png)](https://codeclimate.com/github/tarakanbg/vatbook)
 
+## Requirements
+
+[Ruby 1.9.3](http://www.ruby-lang.org/en/downloads/) or higher | **Supports Ruby 2.0!**
 
 ## Installation
 
