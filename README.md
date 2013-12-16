@@ -122,6 +122,10 @@ airports. Example:
 
 ## Changelog
 
+### v. 0.2.1 - 16 December 2013
+
+* minor changes, dependencies
+
 ### v. 0.2 - 28 February 2013
 
 * Ruby 2.0 support

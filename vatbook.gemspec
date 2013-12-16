@@ -11,6 +11,7 @@ Gem::Specification.new do |gem|
   gem.description   = %q{Ruby API to the Vatbook service for reading and parsing Vatsim pilot and ATC bookings. Booking query requests are made by FIR and individual bookings are returned as objects, exposing a rich set of attributes. Support for excluding enroute pilot bookings. Support for pulling pilot and atc bookings separately or as a combined hash.}
   gem.summary       = %q{Ruby API to the Vatbook service for reading Vatsim pilot and ATC bookings}
   gem.homepage      = "https://github.com/tarakanbg/vatbook"
+  gem.license       = 'MIT'
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
@@ -22,5 +23,5 @@ Gem::Specification.new do |gem|
   gem.add_development_dependency "guard"
   gem.add_development_dependency "libnotify"
   gem.add_development_dependency "guard-rspec"
-  gem.add_dependency "nokogiri", "~> 1.5.6"
+  gem.add_dependency "nokogiri", "~> 1.6.1"
 end
